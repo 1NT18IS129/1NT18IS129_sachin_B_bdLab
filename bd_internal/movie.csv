@@ -1,0 +1,21 @@
+movie_name,imdb_rating,Genre,Feedback,Referable
+Harry porter,9.2,Thriller,7777,TRUE
+Bombay,7.1,Adventure,1123,FALSE
+the nun,8.2,Horror,4321,TRUE
+Kick,6.2,Drama,5543,TRUE
+Hera Pheri,8.5,Comedy,2341,TRUE
+Dhol,7.5,Comedy,2772,TRUE
+Parasite,8.3,Thriller,3212,FALSE
+Money,6.2,Thriller,3345,TRUE
+Roadstar,8.1,Thriller,2398,FALSE
+Dhoom,5.6,Drama,3187,TRUE
+Drishyam,7.7,Suspense,2197,TRUE
+3 Idiots,8.8,Comedy,2476,TRUE
+stree,6.2,Horror,3366,FALSE
+Journey,7.6,Suspense,2122,TRUE
+city lights,6.7,Adventure,2321,TRUE
+Jersey,8.4,Suspense,2122,TRUE
+Simba,7.8,Family,3221,FALSE
+Singham,7.9,Family,3123,TRUE
+Bajirao Mastani,6.1,Drama,1233,FALSE
+Life of Pie,8.3,Adventure,7982,TRUE
